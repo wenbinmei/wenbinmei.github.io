@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/tags/r/</link>
+    <description>Recent content in R on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/r/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Resources for the R, Python and Perl.</title>
+      <link>https://wenbinmei.github.io/post/coding_resource/</link>
+      <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/post/coding_resource/</guid>
+      <description>
+
+&lt;p&gt;I learned some coding in the computer class during my undergraduate, but I never used in the research until during the master period. During that time, I starts to assemble 100kb size chloroplast genomes using Illumina short reads, and I start to learn more linux, bash and scripting. I enjoyed so I want to do bioinformatics for my PhD. When I start the PhD program at UF, my advisor gives me a book &lt;a href=&#34;http://ft-sipil.unila.ac.id/dbooks/(ebook%20pdf)%20Teach%20Yourself%20Perl%20in%2021%20Days.pdf&#34; target=&#34;_blank&#34;&gt;Teach yourself perl in 21 days&lt;/a&gt;. After reading this book, I start to do the projects and learn by doing is the best approach in bioinformatics and genomics. &lt;a href=&#34;http://bioperl.org/index.html&#34; target=&#34;_blank&#34;&gt;Bioperl&lt;/a&gt; has many useful examples to process and analyze the data. The field is developping very fast and &lt;code&gt;Google&lt;/code&gt; is my best teacher along the jouney.&lt;/p&gt;
+
+&lt;p&gt;I learn more python and R when the PhD progress. Sometimes the choice of programming languages to use also depends on the lab, My current lab most use R.  Now &lt;a href=&#34;http://biopython.org&#34; target=&#34;_blank&#34;&gt;biopython&lt;/a&gt; and R &lt;a href=&#34;https://www.bioconductor.org&#34; target=&#34;_blank&#34;&gt;bioconductor&lt;/a&gt; has many packages for large scale biological data analysis. Python also has a nice &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;machine learning package&lt;/a&gt;, of course R has the similar nice resource for machine learning as well a book called &lt;a href=&#34;https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/&#34; target=&#34;_blank&#34;&gt;An Introduction to Statistical Learning with Applications in R&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is a few more useful resources:&lt;/p&gt;
+
+&lt;h2 id=&#34;perl&#34;&gt;Perl:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://korflab.ucdavis.edu/Unix_and_Perl/index.html&#34; target=&#34;_blank&#34;&gt;Unix &amp;amp; Perl for Biologist&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;general-introduction-bioinformatics&#34;&gt;General introduction bioinformatics:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920030157.do&#34; target=&#34;_blank&#34;&gt;Bioinformatics data analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;r&#34;&gt;R:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rstudio.com/resources/cheatsheets/&#34; target=&#34;_blank&#34;&gt;Rstudio cheat sheets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jakevdp/PythonDataScienceHandbook#python-data-science-handbook&#34; target=&#34;_blank&#34;&gt;Python Data Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pythondoc.com/pythontutorial3/index.html&#34; target=&#34;_blank&#34;&gt;Introduction to Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wizardforcel.gitbooks.io/w3school-python/content/1.html&#34; target=&#34;_blank&#34;&gt;Basic Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;forum&#34;&gt;Forum:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biotrainee.com&#34; target=&#34;_blank&#34;&gt;biotrainee.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cosx.org&#34; target=&#34;_blank&#34;&gt;Capital of Statistics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

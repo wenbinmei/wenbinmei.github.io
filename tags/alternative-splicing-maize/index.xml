@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternative Splicing Maize on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/tags/alternative-splicing-maize/</link>
+    <description>Recent content in Alternative Splicing Maize on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/alternative-splicing-maize/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alternative Splicing in Maize</title>
+      <link>https://wenbinmei.github.io/project/alternative-splicing-maize/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/alternative-splicing-maize/</guid>
+      <description>&lt;p&gt;Identifying and characterizing alternative splicing (AS) enables our understanding of the biological role of transcript isoform diversity. This study describes the use of publicly available RNA-Seq data to identify and characterize the global diversity of AS isoforms in maize using the inbred lines B73 and Mo17, and a related species, sorghum.&lt;/p&gt;
+
+&lt;p&gt;Identification and characterization of AS within maize tissues revealed that genes expressed in seed exhibit the largest differential AS relative to other tissues examined. Additionally, differences in AS between the two genotypes B73 and Mo17 are greatest within genes expressed in seed. We demonstrate that changes in the level of alternatively spliced transcripts (intron retention and exon skipping) do not solely reflect differences in total transcript abundance, and we present evidence that intron retention may act to fine-tune gene expression across seed development stages.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we have identified temperature sensitive AS in maize and demonstrate that drought-induced changes in AS involve distinct sets of genes in reproductive and vegetative tissues.&lt;/p&gt;
+
+&lt;p&gt;Examining our identified AS isoforms within B73 × Mo17 recombinant inbred lines (RILs) identified splicing QTL (sQTL). The 43.3% of cis-sQTL regulated junctions are actually identified as alternatively spliced junctions in our analysis, while 10 Mb windows on each side of 48.2% of trans-sQTLs overlap with splicing related genes.&lt;/p&gt;
+
+&lt;p&gt;Using sorghum as an out-group enabled direct examination of loss or conservation of AS between homeologous genes representing the two subgenomes of maize. We identify several instances where AS isoforms that are conserved between one maize homeolog and its sorghum ortholog are absent from the second maize homeolog, suggesting that these AS isoforms may have been lost after the maize whole genome duplication event. This comprehensive analysis provides new insights into the complexity of AS in maize.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/publication/</link>
+    <description>Recent content in Publications on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Detecting alternatively spliced transcript isoforms from single-molecule long-read sequences without a reference genome</title>
+      <link>https://wenbinmei.github.io/publication/denovo_splicing/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/denovo_splicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Analysis of Alternative Splicing in Paleopolyploid Maize</title>
+      <link>https://wenbinmei.github.io/publication/splicing_maize/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/splicing_maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of the 3R-MYB Gene Family in Plants</title>
+      <link>https://wenbinmei.github.io/publication/3r-myb/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/3r-myb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make a domesticate</title>
+      <link>https://wenbinmei.github.io/publication/domestication_review/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/domestication_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily Conserved Alternative Splicing Across Monocots (2017)</title>
+      <link>https://wenbinmei.github.io/publication/splicing_monocot/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/splicing_monocot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aberrant splicing in maize rough endosperm3 reveals a conserved role for U12 splicing in eukaryotic multicellular development</title>
+      <link>https://wenbinmei.github.io/publication/rgh3_splicing/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/rgh3_splicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alternative Splicing Landscape in Monocots Insights from Genetic, Epigenetic and Evolutionary Perspectives</title>
+      <link>https://wenbinmei.github.io/publication/phd_thesis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/phd_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does complete plastid genome sequencing improve species discrimination and phylogenetic resolution in Araucaria?</title>
+      <link>https://wenbinmei.github.io/publication/araucaria_phylogeny/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/araucaria_phylogeny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caffeine exposure alters cardiac gene expression in embryonic cardiomyocytes</title>
+      <link>https://wenbinmei.github.io/publication/caffeine_gene_expression/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/caffeine_gene_expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive expansion of the maize maternally expressed gene (Meg) family involves changes in expression patterns and protein secondary structures of its members</title>
+      <link>https://wenbinmei.github.io/publication/meg_gene_family/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/meg_gene_family/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are polyploids really evolutionary dead-ends (again)? A critical reappraisal of Mayrose et al. (2011)</title>
+      <link>https://wenbinmei.github.io/publication/polyploid/</link>
+      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/polyploid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects on specific promoter DNA methylation in zebrafish embryos and larvae following benzopyrene exposure</title>
+      <link>https://wenbinmei.github.io/publication/methylation-zeabrafish-embryo/</link>
+      <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/methylation-zeabrafish-embryo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome Sequencing Past and Present</title>
+      <link>https://wenbinmei.github.io/publication/maize_genome_sequencing_book/</link>
+      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/maize_genome_sequencing_book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Amborella genome and the evolution of flowering plants</title>
+      <link>https://wenbinmei.github.io/publication/amborella_genome/</link>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/amborella_genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery and expression analysis of alternative splicing events conserved among plant SR proteins</title>
+      <link>https://wenbinmei.github.io/publication/plant_sr/</link>
+      <pubDate>Thu, 19 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/plant_sr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

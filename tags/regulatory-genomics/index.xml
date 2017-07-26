@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulatory Genomics on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/tags/regulatory-genomics/</link>
+    <description>Recent content in Regulatory Genomics on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Sun, 23 Jul 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/regulatory-genomics/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My recent online talk about PhD work</title>
+      <link>https://wenbinmei.github.io/post/splicing_talk/</link>
+      <pubDate>Sun, 23 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/post/splicing_talk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://chinesegenomics.weebly.com&#34; target=&#34;_blank&#34;&gt;Chinese Genomics online Meet-up&lt;/a&gt; is a self-organized groups by several young Chinese researchers, mainly by PhD students, postdocs and assistant professors, to discuss about plant genomics, evolution, statistics, bioformatics, genetics et al.&lt;/p&gt;
+
+&lt;p&gt;Every two weeks we have a online meet-up. Recently I was giving a research talk &lt;code&gt;The cause and consequence of alternative splicing in maize and across species&lt;/code&gt; about first two chapters in my PhD dissertation. The first part of the talk is mainly about a recent published maize alternative splicing work &lt;code&gt;A Comprehensive Analysis of Alternative Splicing in Paleopolyploid Maize&lt;/code&gt; has been published in &lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fpls.2017.00694/full&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Frontiers in Plant Science&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second part of the talk is about to identify the evolutionary conserved alternative splicing events under functional constriants across monocots, mainly focusing on five grass species: maize, sorghum, rice, foxtail millet and &lt;em&gt;Brachypodium&lt;/em&gt;. Part of the alternative splicing variants are probably netrual, besides classic genetic mutant study, our study provide a way to identified protential functional important alternative splicing events. The second part of talk is currently under review, and we provide a &lt;a href=&#34;http://www.biorxiv.org/content/early/2017/03/25/120469&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;bioaxiv&lt;/em&gt; version for the manuscript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is the &lt;a href=&#34;https://www.youtube.com/watch?v=hzydqZXaL5o0&#34; target=&#34;_blank&#34;&gt;youtube link&lt;/a&gt; for the talk.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

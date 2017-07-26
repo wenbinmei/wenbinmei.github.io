@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/project/</link>
+    <description>Recent content in Projects on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alternative Splicing in Maize</title>
+      <link>https://wenbinmei.github.io/project/alternative-splicing-maize/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/alternative-splicing-maize/</guid>
+      <description>&lt;p&gt;Identifying and characterizing alternative splicing (AS) enables our understanding of the biological role of transcript isoform diversity. This study describes the use of publicly available RNA-Seq data to identify and characterize the global diversity of AS isoforms in maize using the inbred lines B73 and Mo17, and a related species, sorghum.&lt;/p&gt;
+
+&lt;p&gt;Identification and characterization of AS within maize tissues revealed that genes expressed in seed exhibit the largest differential AS relative to other tissues examined. Additionally, differences in AS between the two genotypes B73 and Mo17 are greatest within genes expressed in seed. We demonstrate that changes in the level of alternatively spliced transcripts (intron retention and exon skipping) do not solely reflect differences in total transcript abundance, and we present evidence that intron retention may act to fine-tune gene expression across seed development stages.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we have identified temperature sensitive AS in maize and demonstrate that drought-induced changes in AS involve distinct sets of genes in reproductive and vegetative tissues.&lt;/p&gt;
+
+&lt;p&gt;Examining our identified AS isoforms within B73 × Mo17 recombinant inbred lines (RILs) identified splicing QTL (sQTL). The 43.3% of cis-sQTL regulated junctions are actually identified as alternatively spliced junctions in our analysis, while 10 Mb windows on each side of 48.2% of trans-sQTLs overlap with splicing related genes.&lt;/p&gt;
+
+&lt;p&gt;Using sorghum as an out-group enabled direct examination of loss or conservation of AS between homeologous genes representing the two subgenomes of maize. We identify several instances where AS isoforms that are conserved between one maize homeolog and its sorghum ortholog are absent from the second maize homeolog, suggesting that these AS isoforms may have been lost after the maize whole genome duplication event. This comprehensive analysis provides new insights into the complexity of AS in maize.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identify functional constraint alternative splicing across species</title>
+      <link>https://wenbinmei.github.io/project/alternative-splicing-across-species/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/alternative-splicing-across-species/</guid>
+      <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
+
+&lt;p&gt;In total, 9,804 conserved AS events within 19,235 genes were identified conserved between 2 or more species studied. In grasses containing large regions of conserved synteny, the frequency of conserved AS events is twice that observed for genes outside of conserved synteny blocks.&lt;/p&gt;
+
+&lt;p&gt;In plant-specific RS and RS2Z subfamilies, we observe both conservation and divergence of AS events after the whole genome duplication in maize. In addition, plant-specific RS and RS2Z subfamilies are highly connected with R2R3-MYB in splicing networks.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we discovered that the network based on genes harboring conserved AS events is enriched for phosphatases, kinases and ubiquitylation genes, which suggests that AS may participate in regulating signaling pathways. These data lay the foundation for identifying and studying conserved AS events in the monocots, particularly across grass species, and this conserved AS resource identifies an additional layer between genotype to phenotype that may impact future crop improvement efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population genetics of structure variation in maize and teosinte</title>
+      <link>https://wenbinmei.github.io/project/structure-variation/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/structure-variation/</guid>
+      <description>&lt;p&gt;In this project, we are focusing on two types of structure variations: &lt;strong&gt;&lt;code&gt;copy number variation (CNV)&lt;/code&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;code&gt;inversion&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Understanding genetic diversity in natural populations has long been a central theme for biologists. However, so far most efforts have focused on single nucleotide polymorphisms (SNPs) to characterize genetic diversity, demography, introgression and gene flow. Yet considerable evidence suggests an important evolutionary role for structural variation in shaping genetic and phenotypic diversity. Here, we use high depth whole genome sequencing data from a single natural population of the maize wild relative teosinte to study population genomics of CNV. We find that a large proportion of the genome shows evidence of segregating CNV, and that CNV segregation dramatically skews frequencies of the underlying SNPs. While most CNV appear to be deleterious, we shows that segregating CNV are found even in regions of the genome shown to be functionally relevant for phenotype, and a small number of CNV appear to be targeted by positive selection. Taken together, our results begin to shed light on the importance of structural variation in the evolution of large plant genomes.&lt;/p&gt;
+
+&lt;p&gt;When chromosomes break, sometimes the cell&amp;rsquo;s repair machinery doesn&amp;rsquo;t work as quite accurate as expected, and occasionally the broken chunk of chromosome flips around before it is stuck back in place. These changes, called inversions, can played an important role in evolutionary genetics, such as disrupting gene function via breakage, modifying gene action by rearranging regulatory sequence, suppressing recombination and fomenting adaptive divergence and introgression. Many cool examples of inversions have been identified in the nature populations such as perenniality in &lt;em&gt;Mimulus&lt;/em&gt;, mating behavior in birds, marine and fresh water divergence in sticklebacks, and mimicry polymorphism of wing patterns in butterflies et al.&lt;/p&gt;
+
+&lt;p&gt;So, what about inversions in maize and maize wild relative teosinte? So far, we have identified nearly 130Mb of &lt;em&gt;Zea&lt;/em&gt; inversions, which is nearly the entire genome length of the &lt;em&gt;Arabidopsis&lt;/em&gt;. The biggest inversion identified so far on Chr1 is about 50Mb. This inversion identified in teosinte shows the altitudinal cline, and associate with phenotype culm diamete, a trait difference between maize and teosinte. When we surveyed of a handful of teosinte population using relatively low-density genotyping easily pick up several megabase-scale inversions in Zea. Of course, smaller inversions will be harder to detect, but also less likely to be disrupted by crossing over and probably much more abundant in the genome. So far, we are developping the method to identified both small and large scale inversions based on unimputed genotype data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

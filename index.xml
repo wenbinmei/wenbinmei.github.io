@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenbin Mei on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/</link>
+    <description>Recent content in Wenbin Mei on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alternative Splicing in Maize</title>
+      <link>https://wenbinmei.github.io/project/alternative-splicing-maize/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/alternative-splicing-maize/</guid>
+      <description>&lt;p&gt;Identifying and characterizing alternative splicing (AS) enables our understanding of the biological role of transcript isoform diversity. This study describes the use of publicly available RNA-Seq data to identify and characterize the global diversity of AS isoforms in maize using the inbred lines B73 and Mo17, and a related species, sorghum.&lt;/p&gt;
+
+&lt;p&gt;Identification and characterization of AS within maize tissues revealed that genes expressed in seed exhibit the largest differential AS relative to other tissues examined. Additionally, differences in AS between the two genotypes B73 and Mo17 are greatest within genes expressed in seed. We demonstrate that changes in the level of alternatively spliced transcripts (intron retention and exon skipping) do not solely reflect differences in total transcript abundance, and we present evidence that intron retention may act to fine-tune gene expression across seed development stages.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we have identified temperature sensitive AS in maize and demonstrate that drought-induced changes in AS involve distinct sets of genes in reproductive and vegetative tissues.&lt;/p&gt;
+
+&lt;p&gt;Examining our identified AS isoforms within B73 × Mo17 recombinant inbred lines (RILs) identified splicing QTL (sQTL). The 43.3% of cis-sQTL regulated junctions are actually identified as alternatively spliced junctions in our analysis, while 10 Mb windows on each side of 48.2% of trans-sQTLs overlap with splicing related genes.&lt;/p&gt;
+
+&lt;p&gt;Using sorghum as an out-group enabled direct examination of loss or conservation of AS between homeologous genes representing the two subgenomes of maize. We identify several instances where AS isoforms that are conserved between one maize homeolog and its sorghum ortholog are absent from the second maize homeolog, suggesting that these AS isoforms may have been lost after the maize whole genome duplication event. This comprehensive analysis provides new insights into the complexity of AS in maize.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identify functional constraint alternative splicing across species</title>
+      <link>https://wenbinmei.github.io/project/alternative-splicing-across-species/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/alternative-splicing-across-species/</guid>
+      <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
+
+&lt;p&gt;In total, 9,804 conserved AS events within 19,235 genes were identified conserved between 2 or more species studied. In grasses containing large regions of conserved synteny, the frequency of conserved AS events is twice that observed for genes outside of conserved synteny blocks.&lt;/p&gt;
+
+&lt;p&gt;In plant-specific RS and RS2Z subfamilies, we observe both conservation and divergence of AS events after the whole genome duplication in maize. In addition, plant-specific RS and RS2Z subfamilies are highly connected with R2R3-MYB in splicing networks.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we discovered that the network based on genes harboring conserved AS events is enriched for phosphatases, kinases and ubiquitylation genes, which suggests that AS may participate in regulating signaling pathways. These data lay the foundation for identifying and studying conserved AS events in the monocots, particularly across grass species, and this conserved AS resource identifies an additional layer between genotype to phenotype that may impact future crop improvement efforts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population genetics of structure variation in maize and teosinte</title>
+      <link>https://wenbinmei.github.io/project/structure-variation/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/structure-variation/</guid>
+      <description>&lt;p&gt;In this project, we are focusing on two types of structure variations: &lt;strong&gt;&lt;code&gt;copy number variation (CNV)&lt;/code&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;code&gt;inversion&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Understanding genetic diversity in natural populations has long been a central theme for biologists. However, so far most efforts have focused on single nucleotide polymorphisms (SNPs) to characterize genetic diversity, demography, introgression and gene flow. Yet considerable evidence suggests an important evolutionary role for structural variation in shaping genetic and phenotypic diversity. Here, we use high depth whole genome sequencing data from a single natural population of the maize wild relative teosinte to study population genomics of CNV. We find that a large proportion of the genome shows evidence of segregating CNV, and that CNV segregation dramatically skews frequencies of the underlying SNPs. While most CNV appear to be deleterious, we shows that segregating CNV are found even in regions of the genome shown to be functionally relevant for phenotype, and a small number of CNV appear to be targeted by positive selection. Taken together, our results begin to shed light on the importance of structural variation in the evolution of large plant genomes.&lt;/p&gt;
+
+&lt;p&gt;When chromosomes break, sometimes the cell&amp;rsquo;s repair machinery doesn&amp;rsquo;t work as quite accurate as expected, and occasionally the broken chunk of chromosome flips around before it is stuck back in place. These changes, called inversions, can played an important role in evolutionary genetics, such as disrupting gene function via breakage, modifying gene action by rearranging regulatory sequence, suppressing recombination and fomenting adaptive divergence and introgression. Many cool examples of inversions have been identified in the nature populations such as perenniality in &lt;em&gt;Mimulus&lt;/em&gt;, mating behavior in birds, marine and fresh water divergence in sticklebacks, and mimicry polymorphism of wing patterns in butterflies et al.&lt;/p&gt;
+
+&lt;p&gt;So, what about inversions in maize and maize wild relative teosinte? So far, we have identified nearly 130Mb of &lt;em&gt;Zea&lt;/em&gt; inversions, which is nearly the entire genome length of the &lt;em&gt;Arabidopsis&lt;/em&gt;. The biggest inversion identified so far on Chr1 is about 50Mb. This inversion identified in teosinte shows the altitudinal cline, and associate with phenotype culm diamete, a trait difference between maize and teosinte. When we surveyed of a handful of teosinte population using relatively low-density genotyping easily pick up several megabase-scale inversions in Zea. Of course, smaller inversions will be harder to detect, but also less likely to be disrupted by crossing over and probably much more abundant in the genome. So far, we are developping the method to identified both small and large scale inversions based on unimputed genotype data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A collection of resource about quantative genetics and population genetics</title>
+      <link>https://wenbinmei.github.io/post/population_quantative_genetics_reading/</link>
+      <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/post/population_quantative_genetics_reading/</guid>
+      <description>
+
+&lt;h2 id=&#34;quantative-genetics&#34;&gt;Quantative Genetics:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nitro.biosci.arizona.edu/zbook/book.html&#34; target=&#34;_blank&#34;&gt;Bruce Walsh&amp;rsquo;s evolutionary quantative genetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nitro.biosci.arizona.edu/workshops/TWIPB2013/Mod1/Mod1-13.html&#34; target=&#34;_blank&#34;&gt;Introduction to plant quantitative genetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nitro.biosci.arizona.edu/workshops/TWIPB2013/Mod3/Mod3-13.html&#34; target=&#34;_blank&#34;&gt;Advanced statistical plant breeding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://nitro.biosci.arizona.edu/workshops/MM2012/MM-2012.html&#34; target=&#34;_blank&#34;&gt;Mixed Models in Quantitative Genetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stemmapress.com&#34; target=&#34;_blank&#34;&gt;Rex Bernardo Essentials of Plant Breeding&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://stemmapress.com&#34; target=&#34;_blank&#34;&gt;Rex Bernardo Breeding for Quantitative Traits in Plants&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;population-genetics&#34;&gt;Population Genetics:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cooplab.github.io/popgen-notes/&#34; target=&#34;_blank&#34;&gt;Graham Coop&amp;rsquo;s Population Genetics Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://izt.ciens.ucv.ve/ecologia/Archivos/References-I-biol/books-biol/Biology/Gillespie-Population_Genetics_Concise_Guide.pdf&#34; target=&#34;_blank&#34;&gt;John Gillespie&amp;rsquo;s Population Genetics, A Concise Guide&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://figshare.com/articles/Lecture_notes_in_population_genetics/100687&#34; target=&#34;_blank&#34;&gt;Kent Holsinger&amp;rsquo;s Population Genetics Notes&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.150.2369&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34;&gt;Warren J Ewens&amp;rsquo;s Mathematical Population Genetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://evolution.gs.washington.edu/pgbook/pgbook.pdf&#34; target=&#34;_blank&#34;&gt;Joe Felsenstein&amp;rsquo;s Theoretical Evolutionary Genetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://popmodels.cancercontrol.cancer.gov/gsr/packages/&#34; target=&#34;_blank&#34;&gt;List of simulation software for population genetics&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;classic-books&#34;&gt;Classic books:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://darwin-online.org.uk/EditorialIntroductions/Freeman_VariationunderDomestication.html&#34; target=&#34;_blank&#34;&gt;Charles Darwin&amp;rsquo;s The Variation of Animals and Plants under Domestication&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://14.139.56.90/bitstream/1/2033620/1/IVRI%203205.pdf&#34; target=&#34;_blank&#34;&gt;R.A. Fisher&amp;rsquo;s The Genetical Theory of Natural Selection&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.genetics.org/content/genetics/16/2/97.full.pdf&#34; target=&#34;_blank&#34;&gt;Sewall Wright&amp;rsquo;s Evolution in Mendelian Populations&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://archive.org/details/causesofevolutio00hald_0&#34; target=&#34;_blank&#34;&gt;J.B.S. Haldan&amp;rsquo;s The Causes of Evolution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/scholar?q=+Theodosius+Dobzhansky&amp;amp;btnG=&amp;amp;hl=en&amp;amp;as_sdt=0%2C5&#34; target=&#34;_blank&#34;&gt;Theodosius Dobzhansky&amp;rsquo;s Genetics and the Origin of Species&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://books.google.com/books?hl=en&amp;amp;lr=&amp;amp;id=Ws8FCAAAQBAJ&amp;amp;oi=fnd&amp;amp;pg=PA173&amp;amp;dq=Variation+and+Evolution+in+Plants&amp;amp;ots=A1OlU-kYj6&amp;amp;sig=McrmHJ4MYbneEtnrUTpearpiToQ#v=onepage&amp;amp;q=Variation%20and%20Evolution%20in%20Plants&amp;amp;f=false&#34; target=&#34;_blank&#34;&gt;G. Ledyard Stebbins&amp;rsquo;s Variation and Evolution in Plants&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resources for the R, Python and Perl.</title>
+      <link>https://wenbinmei.github.io/post/coding_resource/</link>
+      <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/post/coding_resource/</guid>
+      <description>
+
+&lt;p&gt;I learned some coding in the computer class during my undergraduate, but I never used in the research until during the master period. During that time, I starts to assemble 100kb size chloroplast genomes using Illumina short reads, and I start to learn more linux, bash and scripting. I enjoyed so I want to do bioinformatics for my PhD. When I start the PhD program at UF, my advisor gives me a book &lt;a href=&#34;http://ft-sipil.unila.ac.id/dbooks/(ebook%20pdf)%20Teach%20Yourself%20Perl%20in%2021%20Days.pdf&#34; target=&#34;_blank&#34;&gt;Teach yourself perl in 21 days&lt;/a&gt;. After reading this book, I start to do the projects and learn by doing is the best approach in bioinformatics and genomics. &lt;a href=&#34;http://bioperl.org/index.html&#34; target=&#34;_blank&#34;&gt;Bioperl&lt;/a&gt; has many useful examples to process and analyze the data. The field is developping very fast and &lt;code&gt;Google&lt;/code&gt; is my best teacher along the jouney.&lt;/p&gt;
+
+&lt;p&gt;I learn more python and R when the PhD progress. Sometimes the choice of programming languages to use also depends on the lab, My current lab most use R.  Now &lt;a href=&#34;http://biopython.org&#34; target=&#34;_blank&#34;&gt;biopython&lt;/a&gt; and R &lt;a href=&#34;https://www.bioconductor.org&#34; target=&#34;_blank&#34;&gt;bioconductor&lt;/a&gt; has many packages for large scale biological data analysis. Python also has a nice &lt;a href=&#34;http://scikit-learn.org/stable/&#34; target=&#34;_blank&#34;&gt;machine learning package&lt;/a&gt;, of course R has the similar nice resource for machine learning as well a book called &lt;a href=&#34;https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/&#34; target=&#34;_blank&#34;&gt;An Introduction to Statistical Learning with Applications in R&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is a few more useful resources:&lt;/p&gt;
+
+&lt;h2 id=&#34;perl&#34;&gt;Perl:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://korflab.ucdavis.edu/Unix_and_Perl/index.html&#34; target=&#34;_blank&#34;&gt;Unix &amp;amp; Perl for Biologist&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;general-introduction-bioinformatics&#34;&gt;General introduction bioinformatics:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://shop.oreilly.com/product/0636920030157.do&#34; target=&#34;_blank&#34;&gt;Bioinformatics data analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;r&#34;&gt;R:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.rstudio.com/resources/cheatsheets/&#34; target=&#34;_blank&#34;&gt;Rstudio cheat sheets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://r4ds.had.co.nz&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jakevdp/PythonDataScienceHandbook#python-data-science-handbook&#34; target=&#34;_blank&#34;&gt;Python Data Science&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pythondoc.com/pythontutorial3/index.html&#34; target=&#34;_blank&#34;&gt;Introduction to Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://wizardforcel.gitbooks.io/w3school-python/content/1.html&#34; target=&#34;_blank&#34;&gt;Basic Python&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;forum&#34;&gt;Forum:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.biotrainee.com&#34; target=&#34;_blank&#34;&gt;biotrainee.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://cosx.org&#34; target=&#34;_blank&#34;&gt;Capital of Statistics&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My recent online talk about PhD work</title>
+      <link>https://wenbinmei.github.io/post/splicing_talk/</link>
+      <pubDate>Sun, 23 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/post/splicing_talk/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://chinesegenomics.weebly.com&#34; target=&#34;_blank&#34;&gt;Chinese Genomics online Meet-up&lt;/a&gt; is a self-organized groups by several young Chinese researchers, mainly by PhD students, postdocs and assistant professors, to discuss about plant genomics, evolution, statistics, bioformatics, genetics et al.&lt;/p&gt;
+
+&lt;p&gt;Every two weeks we have a online meet-up. Recently I was giving a research talk &lt;code&gt;The cause and consequence of alternative splicing in maize and across species&lt;/code&gt; about first two chapters in my PhD dissertation. The first part of the talk is mainly about a recent published maize alternative splicing work &lt;code&gt;A Comprehensive Analysis of Alternative Splicing in Paleopolyploid Maize&lt;/code&gt; has been published in &lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fpls.2017.00694/full&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Frontiers in Plant Science&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The second part of the talk is about to identify the evolutionary conserved alternative splicing events under functional constriants across monocots, mainly focusing on five grass species: maize, sorghum, rice, foxtail millet and &lt;em&gt;Brachypodium&lt;/em&gt;. Part of the alternative splicing variants are probably netrual, besides classic genetic mutant study, our study provide a way to identified protential functional important alternative splicing events. The second part of talk is currently under review, and we provide a &lt;a href=&#34;http://www.biorxiv.org/content/early/2017/03/25/120469&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;bioaxiv&lt;/em&gt; version for the manuscript&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here is the &lt;a href=&#34;https://www.youtube.com/watch?v=hzydqZXaL5o0&#34; target=&#34;_blank&#34;&gt;youtube link&lt;/a&gt; for the talk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting alternatively spliced transcript isoforms from single-molecule long-read sequences without a reference genome</title>
+      <link>https://wenbinmei.github.io/publication/denovo_splicing/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/denovo_splicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comprehensive Analysis of Alternative Splicing in Paleopolyploid Maize</title>
+      <link>https://wenbinmei.github.io/publication/splicing_maize/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/splicing_maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of the 3R-MYB Gene Family in Plants</title>
+      <link>https://wenbinmei.github.io/publication/3r-myb/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/3r-myb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make a domesticate</title>
+      <link>https://wenbinmei.github.io/publication/domestication_review/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/domestication_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionarily Conserved Alternative Splicing Across Monocots (2017)</title>
+      <link>https://wenbinmei.github.io/publication/splicing_monocot/</link>
+      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/splicing_monocot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aberrant splicing in maize rough endosperm3 reveals a conserved role for U12 splicing in eukaryotic multicellular development</title>
+      <link>https://wenbinmei.github.io/publication/rgh3_splicing/</link>
+      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/rgh3_splicing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://wenbinmei.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative Splicing Landscape in Monocots Insights from Genetic, Epigenetic and Evolutionary Perspectives</title>
+      <link>https://wenbinmei.github.io/publication/phd_thesis/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/phd_thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does complete plastid genome sequencing improve species discrimination and phylogenetic resolution in Araucaria?</title>
+      <link>https://wenbinmei.github.io/publication/araucaria_phylogeny/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/araucaria_phylogeny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
