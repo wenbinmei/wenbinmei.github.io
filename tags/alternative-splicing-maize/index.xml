@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
-    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/alternative-splicing-maize/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Alternative Splicing in Maize</title>
       <link>https://wenbinmei.github.io/project/alternative-splicing-maize/</link>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/project/alternative-splicing-maize/</guid>
       <description>&lt;p&gt;Identifying and characterizing alternative splicing (AS) enables our understanding of the biological role of transcript isoform diversity. This study describes the use of publicly available RNA-Seq data to identify and characterize the global diversity of AS isoforms in maize using the inbred lines B73 and Mo17, and a related species, sorghum.&lt;/p&gt;

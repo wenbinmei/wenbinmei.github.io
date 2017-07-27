@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
-    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/alternative-splicing-across-species/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Identify functional constraint alternative splicing across species</title>
       <link>https://wenbinmei.github.io/project/alternative-splicing-across-species/</link>
-      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/project/alternative-splicing-across-species/</guid>
       <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
