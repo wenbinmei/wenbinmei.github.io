@@ -11,11 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Disentangling the complexity of Cold Tolerance in an Allotetraploid White Clover Population Using a Next Generation Sequencing-GWAS Approach</title>
+      <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/white_clover_gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolutionarily Conserved Alternative Splicing Across Monocots</title>
       <link>https://wenbinmei.github.io/publication/splicing_monocot/</link>
       <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/splicing_monocot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to make a domesticate</title>
+      <link>https://wenbinmei.github.io/publication/domestication_review/</link>
+      <pubDate>Tue, 15 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/domestication_review/</guid>
       <description></description>
     </item>
     
@@ -182,15 +200,6 @@
     </item>
     
     <item>
-      <title>Disentangling the complexity of Cold Tolerance in an Allotetraploid White Clover Population Using a Next Generation Sequencing-GWAS Approach</title>
-      <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
-      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/white_clover_gwas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Detecting alternatively spliced transcript isoforms from single-molecule long-read sequences without a reference genome</title>
       <link>https://wenbinmei.github.io/publication/denovo_splicing/</link>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
@@ -214,15 +223,6 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/3r-myb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How to make a domesticate</title>
-      <link>https://wenbinmei.github.io/publication/domestication_review/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/domestication_review/</guid>
       <description></description>
     </item>
     
