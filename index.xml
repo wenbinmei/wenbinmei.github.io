@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Evolutionarily Conserved Alternative Splicing Across Monocots (2017)</title>
+      <link>https://wenbinmei.github.io/publication/splicing_monocot/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/splicing_monocot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A collection of resource about quantative genetics and population genetics</title>
       <link>https://wenbinmei.github.io/post/population_quantative_genetics_reading/</link>
       <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
@@ -173,6 +182,15 @@
     </item>
     
     <item>
+      <title>Disentangling the complexity of Cold Tolerance in an Allotetraploid White Clover Population Using a Next Generation Sequencing-GWAS Approach (2017)</title>
+      <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/white_clover_gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detecting alternatively spliced transcript isoforms from single-molecule long-read sequences without a reference genome</title>
       <link>https://wenbinmei.github.io/publication/denovo_splicing/</link>
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
@@ -209,15 +227,6 @@
     </item>
     
     <item>
-      <title>Evolutionarily Conserved Alternative Splicing Across Monocots (2017)</title>
-      <link>https://wenbinmei.github.io/publication/splicing_monocot/</link>
-      <pubDate>Sat, 25 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/splicing_monocot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aberrant splicing in maize rough endosperm3 reveals a conserved role for U12 splicing in eukaryotic multicellular development</title>
       <link>https://wenbinmei.github.io/publication/rgh3_splicing/</link>
       <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
@@ -242,15 +251,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/phd_thesis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does complete plastid genome sequencing improve species discrimination and phylogenetic resolution in Araucaria?</title>
-      <link>https://wenbinmei.github.io/publication/araucaria_phylogeny/</link>
-      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/araucaria_phylogeny/</guid>
       <description></description>
     </item>
     
