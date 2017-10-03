@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Adaptation in plant genomes: bigger isn’t better, but it’s probably different</title>
+      <link>https://wenbinmei.github.io/publication/ajb_review/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/ajb_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Variants Influencing Plasma Renin Activity in Hypertensive Patients from the Pharmacogenomic Evaluation of Antihypertensive Responses (PEAR) Study</title>
+      <link>https://wenbinmei.github.io/publication/pear_study/</link>
+      <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/pear_study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangling the complexity of cold tolerance in an allotetraploid white clover population using a next generation sequencing-GWAS approach</title>
       <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
       <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Mon, 24 Feb 2014 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/methylation-zeabrafish-embryo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome Sequencing Past and Present</title>
-      <link>https://wenbinmei.github.io/publication/maize_genome_sequencing_book/</link>
-      <pubDate>Thu, 06 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/maize_genome_sequencing_book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Amborella genome and the evolution of flowering plants</title>
-      <link>https://wenbinmei.github.io/publication/amborella_genome/</link>
-      <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/amborella_genome/</guid>
       <description></description>
     </item>
     
