@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Functional Space Hypothesis - different adapation pattern between small and large genomes</title>
+      <link>https://wenbinmei.github.io/project/functional-space-hypothesis-project/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/functional-space-hypothesis-project/</guid>
+      <description>&lt;p&gt;Here we propose the functional space hypothesis, positing that mutational target size scales with genome size, impacting the number, source, and genomic location of beneficial mutations that contribute to adaptation. Preliminary evidence, mostly from Arabidopsis and maize, appears to bear out at least some of the predictions of our hypothesis, but clearly more data are needed before any rigorous assessment can be made. If correct, the functional space hypothesis suggests that we should expect plants with large genomes to exhibit more functional mutations outside of genes, more regulatory variation, and likely less signal of strong selective sweeps reducing diversity. These differences have implications for how we study the evolution and development of plant genomes, from where we should look for signals of adaptation to what patterns we expect adaptation to leave in genetic diversity or gene expression data. While flowering plant genomes vary across more than three orders of magnitude in size, most studies of both functional and evolutionary genomics have focused on species in the extreme small scale. Our hypothesis predicts that methods and results from these small genomes may not replicate well as we begin explore large plant genomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Genetic Variants Influencing Plasma Renin Activity in Hypertensive Patients from the Pharmacogenomic Evaluation of Antihypertensive Responses (PEAR) Study</title>
       <link>https://wenbinmei.github.io/publication/pear_study/</link>
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
@@ -187,10 +197,10 @@
     
     <item>
       <title>Population genetics of structure variation in maize and teosinte</title>
-      <link>https://wenbinmei.github.io/project/structure-variation/</link>
+      <link>https://wenbinmei.github.io/project/structural-variation/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/structure-variation/</guid>
+      <guid>https://wenbinmei.github.io/project/structural-variation/</guid>
       <description>&lt;p&gt;In this project, we are focusing on two types of structure variations: &lt;strong&gt;&lt;code&gt;copy number variation (CNV)&lt;/code&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;code&gt;inversion&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Understanding genetic diversity in natural populations has long been a central theme for biologists. However, so far most efforts have focused on single nucleotide polymorphisms (SNPs) to characterize genetic diversity, demography, introgression and gene flow. Yet considerable evidence suggests an important evolutionary role for structural variation in shaping genetic and phenotypic diversity. Here, we use high depth whole genome sequencing data from a single natural population of the maize wild relative teosinte to study population genomics of CNV. We find that a large proportion of the genome shows evidence of segregating CNV, and that CNV segregation dramatically skews frequencies of the underlying SNPs. While most CNV appear to be deleterious, we shows that segregating CNV are found even in regions of the genome shown to be functionally relevant for phenotype, and a small number of CNV appear to be targeted by positive selection. Taken together, our results begin to shed light on the importance of structural variation in the evolution of large plant genomes.&lt;/p&gt;
@@ -241,15 +251,6 @@
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/3r-myb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aberrant splicing in maize rough endosperm3 reveals a conserved role for U12 splicing in eukaryotic multicellular development</title>
-      <link>https://wenbinmei.github.io/publication/rgh3_splicing/</link>
-      <pubDate>Mon, 27 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/rgh3_splicing/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Structural Variation on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/tags/structural-variation/</link>
+    <description>Recent content in Structural Variation on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/structural-variation/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Population genetics of structure variation in maize and teosinte</title>
+      <link>https://wenbinmei.github.io/project/structural-variation/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/structural-variation/</guid>
+      <description>&lt;p&gt;In this project, we are focusing on two types of structure variations: &lt;strong&gt;&lt;code&gt;copy number variation (CNV)&lt;/code&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;code&gt;inversion&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Understanding genetic diversity in natural populations has long been a central theme for biologists. However, so far most efforts have focused on single nucleotide polymorphisms (SNPs) to characterize genetic diversity, demography, introgression and gene flow. Yet considerable evidence suggests an important evolutionary role for structural variation in shaping genetic and phenotypic diversity. Here, we use high depth whole genome sequencing data from a single natural population of the maize wild relative teosinte to study population genomics of CNV. We find that a large proportion of the genome shows evidence of segregating CNV, and that CNV segregation dramatically skews frequencies of the underlying SNPs. While most CNV appear to be deleterious, we shows that segregating CNV are found even in regions of the genome shown to be functionally relevant for phenotype, and a small number of CNV appear to be targeted by positive selection. Taken together, our results begin to shed light on the importance of structural variation in the evolution of large plant genomes.&lt;/p&gt;
+
+&lt;p&gt;When chromosomes break, sometimes the cell&amp;rsquo;s repair machinery doesn&amp;rsquo;t work as quite accurate as expected, and occasionally the broken chunk of chromosome flips around before it is stuck back in place. These changes, called inversions, can played an important role in evolutionary genetics, such as disrupting gene function via breakage, modifying gene action by rearranging regulatory sequence, suppressing recombination and fomenting adaptive divergence and introgression. Many cool examples of inversions have been identified in the nature populations such as perenniality in &lt;em&gt;Mimulus&lt;/em&gt;, mating behavior in birds, marine and fresh water divergence in sticklebacks, and mimicry polymorphism of wing patterns in butterflies et al.&lt;/p&gt;
+
+&lt;p&gt;So, what about inversions in maize and maize wild relative teosinte? So far, we have identified nearly 130Mb of &lt;em&gt;Zea&lt;/em&gt; inversions, which is nearly the entire genome length of the &lt;em&gt;Arabidopsis&lt;/em&gt;. The biggest inversion identified so far on Chr1 is about 50Mb. This inversion identified in teosinte shows the altitudinal cline, and associate with phenotype culm diamete, a trait difference between maize and teosinte. When we surveyed of a handful of teosinte population using relatively low-density genotyping easily pick up several megabase-scale inversions in Zea. Of course, smaller inversions will be harder to detect, but also less likely to be disrupted by crossing over and probably much more abundant in the genome. So far, we are developping the method to identified both small and large scale inversions based on unimputed genotype data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
