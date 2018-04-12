@@ -11,20 +11,12 @@
     <atom:link href="/tags/functional-genomics/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Functional Space Hypothesis - different adapation pattern between small and large genomes</title>
+      <title>Study Functional Constraint Regions for Crop Improvement</title>
       <link>https://wenbinmei.github.io/project/functional-constrain/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/project/functional-constrain/</guid>
-      <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
-
-&lt;p&gt;In total, 9,804 conserved AS events within 19,235 genes were identified conserved between 2 or more species studied. In grasses containing large regions of conserved synteny, the frequency of conserved AS events is twice that observed for genes outside of conserved synteny blocks.&lt;/p&gt;
-
-&lt;p&gt;In plant-specific RS and RS2Z subfamilies, we observe both conservation and divergence of AS events after the whole genome duplication in maize. In addition, plant-specific RS and RS2Z subfamilies are highly connected with R2R3-MYB in splicing networks.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, we discovered that the network based on genes harboring conserved AS events is enriched for phosphatases, kinases and ubiquitylation genes, which suggests that AS may participate in regulating signaling pathways. These data lay the foundation for identifying and studying conserved AS events in the monocots, particularly across grass species, and this conserved AS resource identifies an additional layer between genotype to phenotype that may impact future crop improvement efforts.&lt;/p&gt;
-
-&lt;p&gt;Here we propose the functional space hypothesis, positing that mutational target size scales with genome size, impacting the number, source, and genomic location of beneficial mutations that contribute to adaptation. Preliminary evidence, mostly from Arabidopsis and maize, appears to bear out at least some of the predictions of our hypothesis, but clearly more data are needed before any rigorous assessment can be made. If correct, the functional space hypothesis suggests that we should expect plants with large genomes to exhibit more functional mutations outside of genes, more regulatory variation, and likely less signal of strong selective sweeps reducing diversity. These differences have implications for how we study the evolution and development of plant genomes, from where we should look for signals of adaptation to what patterns we expect adaptation to leave in genetic diversity or gene expression data. While flowering plant genomes vary across more than three orders of magnitude in size, most studies of both functional and evolutionary genomics have focused on species in the extreme small scale. Our hypothesis predicts that methods and results from these small genomes may not replicate well as we begin explore large plant genomes.&lt;/p&gt;
+      <description>&lt;p&gt;Understanding the functional contribution of non-coding regions is a challenge for plant genomics. Many non-coding regions have regulatory function due to SV, promoter, enhancer, conserved non-coding sequence et al. Identify these functional constraint regions in the genome would help plant breeding to priority GWAS hits and improving the prediction accuracy of genomic selection model by exploiting biological prior. During my Ph.D., I identified conserved intron retention events across grass species, and subsets of these conserved intron retention events even have conservation across introns suggesting these introns are under functional constraint. In future, I am plan to focus on identifying the functional constraint regions in the genome and investigate their interaction between plant breeding, climate change, genome function, and natural selection.&lt;/p&gt;
 </description>
     </item>
     
