@@ -179,6 +179,17 @@
     </item>
     
     <item>
+      <title>Catalog Functional Impact and Adaptive Role of Structural Variation for crop improvement</title>
+      <link>https://wenbinmei.github.io/project/structural-variation/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/structural-variation/</guid>
+      <description>&lt;p&gt;Structural variation (SV) is defined as rearrangements, gain or loss of genomic DNA sequences including deletion, insertion, inversion, and translocation. Copy number variant commonly refers to
+deletions and insertions. SV has been shaping the genetic diversity and genome complexity and is essential for plant phenotypes such as copy number variation in GL7 contributing to grain size diversity in rice and retrotransposon insertion upstream an MYB transcription factor controlling the color of blood orange. Besides contributing to the phenotypes, SV plays an important role related to adaptation in the new environment, disease resistant and recently more evidence suggest structural variation is a primary driver of metabolite diversity. Currently I am using whole genome sequence from a single natural population of the maize wild relative teosinte to investigate evolutionary consequence and function of copy number variant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Gene Regulation for Crop Improvement</title>
       <link>https://wenbinmei.github.io/project/gene-regulation-for-crop-improvement/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
@@ -201,22 +212,6 @@
 &lt;p&gt;In plant-specific RS and RS2Z subfamilies, we observe both conservation and divergence of AS events after the whole genome duplication in maize. In addition, plant-specific RS and RS2Z subfamilies are highly connected with R2R3-MYB in splicing networks.&lt;/p&gt;
 
 &lt;p&gt;Furthermore, we discovered that the network based on genes harboring conserved AS events is enriched for phosphatases, kinases and ubiquitylation genes, which suggests that AS may participate in regulating signaling pathways. These data lay the foundation for identifying and studying conserved AS events in the monocots, particularly across grass species, and this conserved AS resource identifies an additional layer between genotype to phenotype that may impact future crop improvement efforts.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Population genetics of structural variation in maize and teosinte</title>
-      <link>https://wenbinmei.github.io/project/structural-variation/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/project/structural-variation/</guid>
-      <description>&lt;p&gt;In this project, we are focusing on two types of structural variations: &lt;strong&gt;&lt;code&gt;copy number variation (CNV)&lt;/code&gt;&lt;/strong&gt; and &lt;strong&gt;&lt;code&gt;inversion&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Understanding genetic diversity in natural populations has long been a central theme for biologists. However, so far most efforts have focused on single nucleotide polymorphisms (SNPs) to characterize genetic diversity, demography, introgression and gene flow. Yet considerable evidence suggests an important evolutionary role for structural variation in shaping genetic and phenotypic diversity. Here, we use high depth whole genome sequencing data from a single natural population of the maize wild relative teosinte to study population genomics of CNV. We find that a large proportion of the genome shows evidence of segregating CNV, and that CNV segregation dramatically skews frequencies of the underlying SNPs. While most CNV appear to be deleterious, we shows that segregating CNV are found even in regions of the genome shown to be functionally relevant for phenotype, and a small number of CNV appear to be targeted by positive selection. Taken together, our results begin to shed light on the importance of structural variation in the evolution of large plant genomes.&lt;/p&gt;
-
-&lt;p&gt;When chromosomes break, sometimes the cell&amp;rsquo;s repair machinery doesn&amp;rsquo;t work as quite accurate as expected, and occasionally the broken chunk of chromosome flips around before it is stuck back in place. These changes, called inversions, can played an important role in evolutionary genetics, such as disrupting gene function via breakage, modifying gene action by rearranging regulatory sequence, suppressing recombination and fomenting adaptive divergence and introgression. Many cool examples of inversions have been identified in the nature populations such as perenniality in &lt;em&gt;Mimulus&lt;/em&gt;, mating behavior in birds, marine and fresh water divergence in sticklebacks, and mimicry polymorphism of wing patterns in butterflies et al.&lt;/p&gt;
-
-&lt;p&gt;So, what about inversions in maize and maize wild relative teosinte? So far, we have identified nearly 130Mb of &lt;em&gt;Zea&lt;/em&gt; inversions, which is nearly the entire genome length of the &lt;em&gt;Arabidopsis&lt;/em&gt;. The biggest inversion identified so far on Chr1 is about 50Mb. This inversion identified in teosinte shows the altitudinal cline, and associate with phenotype culm diamete, a trait difference between maize and teosinte. When we surveyed of a handful of teosinte population using relatively low-density genotyping easily pick up several megabase-scale inversions in Zea. Of course, smaller inversions will be harder to detect, but also less likely to be disrupted by crossing over and probably much more abundant in the genome. So far, we are developping the method to identified both small and large scale inversions based on unimputed genotype data.&lt;/p&gt;
 </description>
     </item>
     
