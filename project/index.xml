@@ -12,38 +12,38 @@
     
     <item>
       <title>Functional Space Hypothesis - different adapation pattern between small and large genomes</title>
-      <link>https://wenbinmei.github.io/project/functional-space-hypothesis-project/</link>
+      <link>https://wenbinmei.github.io/project/functional-constrain/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/functional-space-hypothesis-project/</guid>
-      <description>&lt;p&gt;Here we propose the functional space hypothesis, positing that mutational target size scales with genome size, impacting the number, source, and genomic location of beneficial mutations that contribute to adaptation. Preliminary evidence, mostly from Arabidopsis and maize, appears to bear out at least some of the predictions of our hypothesis, but clearly more data are needed before any rigorous assessment can be made. If correct, the functional space hypothesis suggests that we should expect plants with large genomes to exhibit more functional mutations outside of genes, more regulatory variation, and likely less signal of strong selective sweeps reducing diversity. These differences have implications for how we study the evolution and development of plant genomes, from where we should look for signals of adaptation to what patterns we expect adaptation to leave in genetic diversity or gene expression data. While flowering plant genomes vary across more than three orders of magnitude in size, most studies of both functional and evolutionary genomics have focused on species in the extreme small scale. Our hypothesis predicts that methods and results from these small genomes may not replicate well as we begin explore large plant genomes.&lt;/p&gt;
+      <guid>https://wenbinmei.github.io/project/functional-constrain/</guid>
+      <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
+
+&lt;p&gt;In total, 9,804 conserved AS events within 19,235 genes were identified conserved between 2 or more species studied. In grasses containing large regions of conserved synteny, the frequency of conserved AS events is twice that observed for genes outside of conserved synteny blocks.&lt;/p&gt;
+
+&lt;p&gt;In plant-specific RS and RS2Z subfamilies, we observe both conservation and divergence of AS events after the whole genome duplication in maize. In addition, plant-specific RS and RS2Z subfamilies are highly connected with R2R3-MYB in splicing networks.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we discovered that the network based on genes harboring conserved AS events is enriched for phosphatases, kinases and ubiquitylation genes, which suggests that AS may participate in regulating signaling pathways. These data lay the foundation for identifying and studying conserved AS events in the monocots, particularly across grass species, and this conserved AS resource identifies an additional layer between genotype to phenotype that may impact future crop improvement efforts.&lt;/p&gt;
+
+&lt;p&gt;Here we propose the functional space hypothesis, positing that mutational target size scales with genome size, impacting the number, source, and genomic location of beneficial mutations that contribute to adaptation. Preliminary evidence, mostly from Arabidopsis and maize, appears to bear out at least some of the predictions of our hypothesis, but clearly more data are needed before any rigorous assessment can be made. If correct, the functional space hypothesis suggests that we should expect plants with large genomes to exhibit more functional mutations outside of genes, more regulatory variation, and likely less signal of strong selective sweeps reducing diversity. These differences have implications for how we study the evolution and development of plant genomes, from where we should look for signals of adaptation to what patterns we expect adaptation to leave in genetic diversity or gene expression data. While flowering plant genomes vary across more than three orders of magnitude in size, most studies of both functional and evolutionary genomics have focused on species in the extreme small scale. Our hypothesis predicts that methods and results from these small genomes may not replicate well as we begin explore large plant genomes.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Alternative Splicing in Maize</title>
-      <link>https://wenbinmei.github.io/project/alternative-splicing-maize/</link>
+      <title>Gene Regulation for Crop Improvement</title>
+      <link>https://wenbinmei.github.io/project/gene-regulation-for-crop-improvement/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/alternative-splicing-maize/</guid>
-      <description>&lt;p&gt;Identifying and characterizing alternative splicing (AS) enables our understanding of the biological role of transcript isoform diversity. This study describes the use of publicly available RNA-Seq data to identify and characterize the global diversity of AS isoforms in maize using the inbred lines B73 and Mo17, and a related species, sorghum.&lt;/p&gt;
-
-&lt;p&gt;Identification and characterization of AS within maize tissues revealed that genes expressed in seed exhibit the largest differential AS relative to other tissues examined. Additionally, differences in AS between the two genotypes B73 and Mo17 are greatest within genes expressed in seed. We demonstrate that changes in the level of alternatively spliced transcripts (intron retention and exon skipping) do not solely reflect differences in total transcript abundance, and we present evidence that intron retention may act to fine-tune gene expression across seed development stages.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, we have identified temperature sensitive AS in maize and demonstrate that drought-induced changes in AS involve distinct sets of genes in reproductive and vegetative tissues.&lt;/p&gt;
-
-&lt;p&gt;Examining our identified AS isoforms within B73 × Mo17 recombinant inbred lines (RILs) identified splicing QTL (sQTL). The 43.3% of cis-sQTL regulated junctions are actually identified as alternatively spliced junctions in our analysis, while 10 Mb windows on each side of 48.2% of trans-sQTLs overlap with splicing related genes.&lt;/p&gt;
-
-&lt;p&gt;Using sorghum as an out-group enabled direct examination of loss or conservation of AS between homeologous genes representing the two subgenomes of maize. We identify several instances where AS isoforms that are conserved between one maize homeolog and its sorghum ortholog are absent from the second maize homeolog, suggesting that these AS isoforms may have been lost after the maize whole genome duplication event. This comprehensive analysis provides new insights into the complexity of AS in maize.&lt;/p&gt;
+      <guid>https://wenbinmei.github.io/project/gene-regulation-for-crop-improvement/</guid>
+      <description>&lt;p&gt;Gene regulation process can be viewed as molecular traits linking genotype to phenotype including chromatin structure, methylation, transcription, splicing, and translation. I am taking an integrative approaches including functional genomics, evolutionary genomics and statistical genomics to understanding the genetic basis of these molecular traits, regulation between these different molecular traits and their contribution to the phenotypes and the environmental adaptation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Identify functional constraint alternative splicing across species</title>
-      <link>https://wenbinmei.github.io/project/alternative-splicing-across-species/</link>
+      <link>https://wenbinmei.github.io/project/crop-wild-relative/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/alternative-splicing-across-species/</guid>
+      <guid>https://wenbinmei.github.io/project/crop-wild-relative/</guid>
       <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
 
 &lt;p&gt;In total, 9,804 conserved AS events within 19,235 genes were identified conserved between 2 or more species studied. In grasses containing large regions of conserved synteny, the frequency of conserved AS events is twice that observed for genes outside of conserved synteny blocks.&lt;/p&gt;

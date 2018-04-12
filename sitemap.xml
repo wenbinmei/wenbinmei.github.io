@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/project/functional-space-hypothesis-project/</loc>
+      <loc>https://wenbinmei.github.io/project/functional-constrain/</loc>
       <lastmod>2017-10-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +86,7 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/project/alternative-splicing-maize/</loc>
+      <loc>https://wenbinmei.github.io/project/gene-regulation-for-crop-improvement/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +95,7 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/project/alternative-splicing-across-species/</loc>
+      <loc>https://wenbinmei.github.io/project/crop-wild-relative/</loc>
       <lastmod>2017-07-24T00:00:00+00:00</lastmod>
     </url>
     
@@ -312,16 +312,6 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/tags/alternative-splicing-maize/</loc>
-      <lastmod>2017-07-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://wenbinmei.github.io/tags/books/</loc>
       <lastmod>2017-07-24T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -343,6 +333,16 @@
     
       <loc>https://wenbinmei.github.io/tags/functional-genomics/</loc>
       <lastmod>2017-10-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://wenbinmei.github.io/tags/gene-regulation-for-crop-improvement/</loc>
+      <lastmod>2017-07-24T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

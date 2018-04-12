@@ -12,10 +12,10 @@
     
     <item>
       <title>Identify functional constraint alternative splicing across species</title>
-      <link>https://wenbinmei.github.io/project/alternative-splicing-across-species/</link>
+      <link>https://wenbinmei.github.io/project/crop-wild-relative/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/alternative-splicing-across-species/</guid>
+      <guid>https://wenbinmei.github.io/project/crop-wild-relative/</guid>
       <description>&lt;p&gt;One difficulty when identifying and analyzing alternative splicing (AS) events in plants is distinguishing functional AS from splicing noise. One way to add confidence to the validity of a splice isoform is to observe that it is conserved across evolutionarily related species. We use a high throughput method to identify junction based conserved AS events from RNA-Seq data across nine plant species including: five grass monocots (maize, sorghum, rice, Brachpodium and foxtail millet), plus two non-grass monocots (bananan and African oil palm), the eudicot Arabidopsis and the basal angiosperm Amborella.&lt;/p&gt;
 
 &lt;p&gt;In total, 9,804 conserved AS events within 19,235 genes were identified conserved between 2 or more species studied. In grasses containing large regions of conserved synteny, the frequency of conserved AS events is twice that observed for genes outside of conserved synteny blocks.&lt;/p&gt;
