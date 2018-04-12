@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Disentangling the complexity of cold tolerance in an allotetraploid white clover population using a next generation sequencing-GWAS approach</title>
+      <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/white_clover_gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Crop Wild Relatives</title>
       <link>https://wenbinmei.github.io/project/crop-wild-relative/</link>
       <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
@@ -42,6 +51,15 @@ deletions and insertions. SV has been shaping the genetic diversity and genome c
     </item>
     
     <item>
+      <title>An overview of extant conifer phylogeny from the perspective of the fossil record</title>
+      <link>https://wenbinmei.github.io/publication/conifer_phylogeny/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/conifer_phylogeny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Study Gene Regulation for Crop Improvement</title>
       <link>https://wenbinmei.github.io/project/gene-regulation-for-crop-improvement/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -57,24 +75,6 @@ deletions and insertions. SV has been shaping the genetic diversity and genome c
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/pear_study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An overview of extant conifer phylogeny from the perspective of the fossil record</title>
-      <link>https://wenbinmei.github.io/publication/conifer_phylogeny/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/conifer_phylogeny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Disentangling the complexity of cold tolerance in an allotetraploid white clover population using a next generation sequencing-GWAS approach</title>
-      <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
-      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/white_clover_gwas/</guid>
       <description></description>
     </item>
     
