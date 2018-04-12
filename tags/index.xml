@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>.Crop Wild Relative</title>
-      <link>https://wenbinmei.github.io/tags/.crop-wild-relative/</link>
-      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/tags/.crop-wild-relative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Books</title>
       <link>https://wenbinmei.github.io/tags/books/</link>
       <pubDate>Mon, 24 Jul 2017 12:00:00 +0000</pubDate>
@@ -39,11 +30,20 @@
     </item>
     
     <item>
-      <title>Functional Genomics</title>
-      <link>https://wenbinmei.github.io/tags/functional-genomics/</link>
+      <title>Crop Wild Relative</title>
+      <link>https://wenbinmei.github.io/tags/crop-wild-relative/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/tags/crop-wild-relative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Functional Constraint</title>
+      <link>https://wenbinmei.github.io/tags/functional-constraint/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/tags/functional-genomics/</guid>
+      <guid>https://wenbinmei.github.io/tags/functional-constraint/</guid>
       <description></description>
     </item>
     

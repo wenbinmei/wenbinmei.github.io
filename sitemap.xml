@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/project/functional-constrain/</loc>
+      <loc>https://wenbinmei.github.io/project/functional-constraint/</loc>
       <lastmod>2017-10-03T00:00:00+00:00</lastmod>
     </url>
     
@@ -302,16 +302,6 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/tags/.crop-wild-relative/</loc>
-      <lastmod>2017-07-24T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://wenbinmei.github.io/tags/books/</loc>
       <lastmod>2017-07-24T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -331,7 +321,17 @@
     
     <url>
     
-      <loc>https://wenbinmei.github.io/tags/functional-genomics/</loc>
+      <loc>https://wenbinmei.github.io/tags/crop-wild-relative/</loc>
+      <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://wenbinmei.github.io/tags/functional-constraint/</loc>
       <lastmod>2017-10-03T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
