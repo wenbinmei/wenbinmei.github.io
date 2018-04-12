@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.Crop Wild Relative on Wenbin Mei</title>
+    <link>https://wenbinmei.github.io/tags/.crop-wild-relative/</link>
+    <description>Recent content in .Crop Wild Relative on Wenbin Mei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Wenbin Mei</copyright>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/.crop-wild-relative/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Study System</title>
+      <link>https://wenbinmei.github.io/project/crop-wild-relative/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/project/crop-wild-relative/</guid>
+      <description>&lt;p&gt;Crop wild relatives provide a tremendous amount of unexplored genetic variations for improving traits of human interest. Among these are many traits related to resistance against pests and diseases and tolerance of abiotic stresses relevant for climate change adaptation. Currently, I am working on structral variation in maize and maize wild relative teosinte. In future, I am planning to continue using crops and their wild relatives as my study system to understand the interface between plant breeding, climate change, genome function, natural selection, and long-term evolutionary dynamics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
