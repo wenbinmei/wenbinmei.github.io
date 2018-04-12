@@ -171,18 +171,17 @@
     </item>
     
     <item>
-      <title>Catalog Functional Impact and Adaptive Role of Structural Variation for crop improvement</title>
-      <link>https://wenbinmei.github.io/project/structural-variation/</link>
+      <title>Crop Wild Relatives</title>
+      <link>https://wenbinmei.github.io/project/crop-wild-relative/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/structural-variation/</guid>
-      <description>&lt;p&gt;Structural variation (SV) is defined as rearrangements, gain or loss of genomic DNA sequences including deletion, insertion, inversion, and translocation. Copy number variant commonly refers to
-deletions and insertions. SV has been shaping the genetic diversity and genome complexity and is essential for plant phenotypes such as copy number variation in GL7 contributing to grain size diversity in rice and retrotransposon insertion upstream an MYB transcription factor controlling the color of blood orange. Besides contributing to the phenotypes, SV plays an important role related to adaptation in the new environment, disease resistant and recently more evidence suggest structural variation is a primary driver of metabolite diversity. Currently I am using whole genome sequence from a single natural population of the maize wild relative teosinte to investigate evolutionary consequence and function of copy number variant.&lt;/p&gt;
+      <guid>https://wenbinmei.github.io/project/crop-wild-relative/</guid>
+      <description>&lt;p&gt;Crop wild relatives provide a tremendous amount of unexplored genetic variations for improving traits of human interest. Among these are many traits related to resistance against pests and diseases and tolerance of abiotic stresses relevant for climate change adaptation. Currently, I am working on structral variation in maize and maize wild relative teosinte. In future, I am planning to continue using crops and their wild relatives as my study system to understand the interface between plant breeding, climate change, genome function, natural selection, and long-term evolutionary dynamics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Gene Regulation for Crop Improvement</title>
+      <title>Study Gene Regulation for Crop Improvement</title>
       <link>https://wenbinmei.github.io/project/gene-regulation-for-crop-improvement/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
@@ -192,12 +191,13 @@ deletions and insertions. SV has been shaping the genetic diversity and genome c
     </item>
     
     <item>
-      <title>Study System</title>
-      <link>https://wenbinmei.github.io/project/crop-wild-relative/</link>
+      <title>Study structural variation for crop improvement</title>
+      <link>https://wenbinmei.github.io/project/structural-variation/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wenbinmei.github.io/project/crop-wild-relative/</guid>
-      <description>&lt;p&gt;Crop wild relatives provide a tremendous amount of unexplored genetic variations for improving traits of human interest. Among these are many traits related to resistance against pests and diseases and tolerance of abiotic stresses relevant for climate change adaptation. Currently, I am working on structral variation in maize and maize wild relative teosinte. In future, I am planning to continue using crops and their wild relatives as my study system to understand the interface between plant breeding, climate change, genome function, natural selection, and long-term evolutionary dynamics.&lt;/p&gt;
+      <guid>https://wenbinmei.github.io/project/structural-variation/</guid>
+      <description>&lt;p&gt;Structural variation (SV) is defined as rearrangements, gain or loss of genomic DNA sequences including deletion, insertion, inversion, and translocation. Copy number variant commonly refers to
+deletions and insertions. SV has been shaping the genetic diversity and genome complexity and is essential for plant phenotypes such as copy number variation in GL7 contributing to grain size diversity in rice and retrotransposon insertion upstream an MYB transcription factor controlling the color of blood orange. Besides contributing to the phenotypes, SV plays an important role related to adaptation in the new environment, disease resistant and recently more evidence suggest structural variation is a primary driver of metabolite diversity. Currently I am using whole genome sequence from a single natural population of the maize wild relative teosinte to investigate evolutionary consequence and function of copy number variant.&lt;/p&gt;
 </description>
     </item>
     
