@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Adaptation in plant genomes: bigger is different</title>
+      <link>https://wenbinmei.github.io/publication/ajb_review/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/ajb_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The maize W22 genome provides a foundation for functional genomics and transposon biology</title>
+      <link>https://wenbinmei.github.io/publication/w22/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/w22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangling the complexity of cold tolerance in an allotetraploid white clover population using a next generation sequencing-GWAS approach</title>
       <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
@@ -34,15 +52,6 @@
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/pear_study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptation in plant genomes: bigger is different</title>
-      <link>https://wenbinmei.github.io/publication/ajb_review/</link>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/ajb_review/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/meg_gene_family/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Are polyploids really evolutionary dead-ends (again)? A critical reappraisal of Mayrose et al. (2011)</title>
-      <link>https://wenbinmei.github.io/publication/polyploid/</link>
-      <pubDate>Tue, 22 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/polyploid/</guid>
       <description></description>
     </item>
     

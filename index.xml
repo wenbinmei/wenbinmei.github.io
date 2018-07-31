@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Adaptation in plant genomes: bigger is different</title>
+      <link>https://wenbinmei.github.io/publication/ajb_review/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/ajb_review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The maize W22 genome provides a foundation for functional genomics and transposon biology</title>
+      <link>https://wenbinmei.github.io/publication/w22/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wenbinmei.github.io/publication/w22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangling the complexity of cold tolerance in an allotetraploid white clover population using a next generation sequencing-GWAS approach</title>
       <link>https://wenbinmei.github.io/publication/white_clover_gwas/</link>
       <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
@@ -75,15 +93,6 @@ deletions and insertions. SV has been shaping the genetic diversity and genome c
       <pubDate>Mon, 02 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/pear_study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptation in plant genomes: bigger is different</title>
-      <link>https://wenbinmei.github.io/publication/ajb_review/</link>
-      <pubDate>Sun, 03 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/ajb_review/</guid>
       <description></description>
     </item>
     
@@ -223,15 +232,6 @@ deletions and insertions. SV has been shaping the genetic diversity and genome c
       <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://wenbinmei.github.io/publication/denovo_splicing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A comprehensive analysis of alternative splicing in paleopolyploid maize</title>
-      <link>https://wenbinmei.github.io/publication/splicing_maize/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://wenbinmei.github.io/publication/splicing_maize/</guid>
       <description></description>
     </item>
     
