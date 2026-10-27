@@ -9,6 +9,9 @@ title = "Wenbin Mei"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
+  # Link previews (LinkedIn, email, X): page description and preview image (1200x630, from social/card.html).
+  description = "Computational biology and AI leader with 15+ years in genomics, machine learning and genome editing, building predictive models and the teams that deliver them."
+  images = ["img/social-card.png"]
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"

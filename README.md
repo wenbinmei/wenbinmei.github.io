@@ -18,6 +18,7 @@ Personal website of Wenbin Mei, built with [Hugo](https://gohugo.io) and the [Bl
 | Layout and typography tweaks | `assets/css/custom.css` |
 | Profile photo | `assets/img/me.jpg` |
 | CV source / PDF | `cv/cv.html` → `static/uploads/wenbin-mei-cv.pdf` |
+| Link-preview description and image (LinkedIn, email, X) | `config/_default/languages.en.toml` (`description`, `images`); card source `social/card.html` → `static/img/social-card.png` via `./social/build.sh` |
 
 ## Local preview
 
