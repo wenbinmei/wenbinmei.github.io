@@ -1,5 +1,5 @@
 ---
-title: "Structural Variation for Crop Improvement"
+title: "Structural Variation"
 summary: "Cataloguing structural variation and identifying its functional impact and adaptive role for crop improvement and environmental adaptation."
 date: "2018-01-02"
 tags:

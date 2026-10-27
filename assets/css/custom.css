@@ -68,10 +68,20 @@ section.space-y-10:has(> .article-link--simple) { width: fit-content; max-width:
 @media (min-width: 640px) {
   section.grid:has(> .article-link--card) {
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    max-width: 52rem;
+    max-width: 46rem;
     margin-inline: auto;
   }
 }
+/* Project cards show only the title under the picture: drop the empty meta row and footer strip
+   so the caption hugs the title instead of leaving a tall blank band. */
+.article-link--card > .p-4 { padding: 0.875rem 1rem; }
+.article-link--card > .p-4 > div.text-sm,
+.article-link--card > .px-6:empty { display: none; }
+.article-link--card header h2 { line-height: 1.35; }
+/* The project photos are portrait, so the theme's wide 3:2 frame crops them. Use a 3:4 frame and
+   show each photo whole (any small gap is filled with black). */
+.article-link--card .thumbnail_card { aspect-ratio: 3 / 4; background: #000; } /* photos have dark edges */
+.article-link--card .thumbnail_card img { object-fit: contain; }
 
 /* Experience page type scale (scoped to pages that contain the timeline):
    section heading > role title > organisation = body text. */
@@ -83,8 +93,9 @@ section.space-y-10:has(> .article-link--simple) { width: fit-content; max-width:
 .article-content:has(li .block) li .block h2 { font-size: 1.25rem; font-weight: 700; line-height: 1.4; } /* = list item titles */
 .article-content:has(li .block) li .block h4 {
   font-size: 1rem; font-weight: 600; line-height: 1.5; margin-bottom: 0.5rem;
-  color: rgb(var(--color-primary-400));
+  color: rgb(var(--color-primary-700));
 }
+.dark .article-content:has(li .block) li .block h4 { color: rgb(var(--color-primary-400)); }
 .article-content:has(li .block) p,
 .article-content:has(li .block) li { font-size: 1rem; }
 .article-content:has(li .block) > h3 { /* Skills group labels */

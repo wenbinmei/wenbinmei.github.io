@@ -1,5 +1,5 @@
 ---
-title: "Functional Constraint Regions for Crop Improvement"
+title: "Functional Constraint Regions"
 summary: "Finding regions shaped by selection and pinpointing the functionally constrained regions that contribute to phenotypes. My work on conserved alternative splicing across grasses was a cover article in GENETICS."
 date: "2018-01-03"
 tags:

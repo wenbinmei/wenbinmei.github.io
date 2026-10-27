@@ -1,5 +1,5 @@
 ---
-title: "Gene Regulation for Crop Improvement"
+title: "Gene Regulation"
 summary: "How gene regulation, from chromatin and DNA methylation to transcription, splicing and translation, shapes phenotypes and environmental adaptation."
 date: "2018-01-01"
 tags:
