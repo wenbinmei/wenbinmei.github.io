@@ -1,0 +1,92 @@
+/* Homepage (profile layout): photo, name, links, bio and buttons stay centred;
+   everything from the "What I do" heading down reads as one left-aligned column. */
+article.text-center > section.prose a[role="button"] + a[role="button"] { margin-left: 0.75rem; }
+article.text-center > section.prose > h2,
+article.text-center > section.prose > h2 ~ * { text-align: left; }
+article.text-center > section.prose > h2:first-of-type {
+  margin-top: 2.5rem;
+  padding-top: 2rem;
+  border-top: 1px solid rgba(var(--color-neutral-500), 0.3);
+}
+
+/* Homepage header: match the 65ch content column instead of spanning the window,
+   so the name and menu sit together above the profile. Inner pages keep the full width. */
+@media (min-width: 768px) {
+  body:has(article.text-center) .main-menu { max-width: 65ch; margin-left: auto; margin-right: auto; }
+}
+
+/* All pages (desktop): put the menu right after the name instead of pushing it to the far edge. */
+@media (min-width: 768px) {
+  .main-menu > .ms-auto { margin-inline-start: 2.5rem !important; }
+}
+
+/* Single pages (Experience, Publications, Patents, posts): centre one 44rem reading column on
+   wide screens; the header follows it because it lives in the same body container. */
+@media (min-width: 1024px) {
+  body:has(#single_header) { max-width: calc(44rem + 16rem); } /* + lg:px-32 padding on both sides */
+  body:has(#single_header) .max-w-prose,
+  body:has(#single_header) .prose { max-width: 44rem; }
+}
+
+/* Centre every page: titles and intro text centred; the reading column centred on single pages. */
+#single_header,
+#main-content > header { text-align: center; margin-inline: auto; }
+#single_header .flex-row,
+#main-content > header .flex-row { justify-content: center; }
+#main-content > header + section .max-w-prose { margin-inline: auto; text-align: center; }
+body:has(#single_header) .article-content,
+body:has(#single_header) article > section.prose > div { margin-inline: auto; }
+
+/* Desktop header: name + menu as one group, centred at the top of every page. */
+@media (min-width: 768px) {
+  .main-menu { justify-content: center; }
+  .main-menu > a:first-child { flex: none; }
+}
+
+/* Experience timeline: larger date badges, kept on one line. */
+li .block > .flex > h3 { flex-shrink: 0; margin-left: 1rem; }
+li .block > .flex > h3 .rounded-md {
+  font-size: 0.95rem;
+  line-height: 1.5rem;
+  padding: 0.125rem 0.5rem;
+  white-space: nowrap;
+}
+@media (max-width: 640px) {
+  li .block > .flex { flex-direction: column; }
+  li .block > .flex > h3 { margin: 0.5rem 0 0; }
+}
+
+/* Blog list: the list block is centred on the page (sized to its longest title), and the year
+   heading, titles and dates inside it share one left edge. */
+section.space-y-10:has(> .article-link--simple) { width: fit-content; max-width: 100%; margin-inline: auto; text-align: left; }
+.article-link--simple header { text-align: left; text-wrap: balance; }
+@media (min-width: 1024px) {
+  .article-link--simple header { white-space: nowrap; } /* one-line titles on laptop/desktop */
+}
+
+/* Projects: a 2x2 card grid, centred, instead of three cards per row. */
+@media (min-width: 640px) {
+  section.grid:has(> .article-link--card) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-width: 52rem;
+    margin-inline: auto;
+  }
+}
+
+/* Experience page type scale (scoped to pages that contain the timeline):
+   section heading > role title > organisation = body text. */
+.article-content:has(li .block) > h2 {
+  font-size: 1.5rem; font-weight: 700;
+  margin-top: 3rem; margin-bottom: 1.25rem; padding-bottom: 0.4rem;
+  border-bottom: 1px solid rgba(var(--color-neutral-500), 0.3);
+}
+.article-content:has(li .block) li .block h2 { font-size: 1.25rem; font-weight: 700; line-height: 1.4; } /* = list item titles */
+.article-content:has(li .block) li .block h4 {
+  font-size: 1rem; font-weight: 600; line-height: 1.5; margin-bottom: 0.5rem;
+  color: rgb(var(--color-primary-400));
+}
+.article-content:has(li .block) p,
+.article-content:has(li .block) li { font-size: 1rem; }
+.article-content:has(li .block) > h3 { /* Skills group labels */
+  font-size: 1.1rem; font-weight: 700; line-height: 1.4; margin-top: 1.5rem; margin-bottom: 0.5rem;
+}

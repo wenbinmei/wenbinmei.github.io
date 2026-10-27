@@ -1,0 +1,24 @@
+[[main]]
+  name = "Experience"
+  pageRef = "experience"
+  weight = 10
+[[main]]
+  name = "Patents"
+  pageRef = "patents"
+  weight = 20
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 30
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 40
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 50
+[[main]]
+  name = "CV"
+  url = "/uploads/wenbin-mei-cv.pdf"
+  weight = 60
