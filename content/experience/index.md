@@ -31,7 +31,7 @@ showAuthor: false
 - Partnered with cross-functional teams to expand data analytics and high-throughput automation capabilities
 {{< /timelineItem >}}
 {{< timelineItem icon="code" header="Scientist II, Computational Biology" badge="Jan 2019 – Sep 2020" subheader="Inari Agriculture" md="true" >}}
-- Major contributor to the Inari maize HapMap, now used across science and product teams (Inari Game Changer Award, 2020)
+- Led Inari's maize and soybean HapMap work, now used across science and product teams (maize HapMap: Inari Game Changer Award, 2020)
 - Built population-genetics methods to annotate deleterious SNPs and prioritize variants for CRISPR-Cas editing, leading to a patent application
 - Characterized Inari maize germplasm and improved genomic selection accuracy using biological priors
 - Built sequence-capture and de novo assembly pipelines to validate edit targets in germplasm without reference genomes
